@@ -1,4 +1,4 @@
-![Header](https://github.com/pewish/pewish/blob/main/assets/Frame%2061.png)
+![Header](https://github.com/pewish/pewish/blob/main/assets/Frame%2062.png)
 
 ## I am a software engineer and a bachelor of Information Systems and Technology.
 
