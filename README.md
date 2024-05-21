@@ -7,4 +7,7 @@ Header
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-5DFAE7) ![MVVM](https://img.shields.io/badge/MVVM-F93ABD) ![REST](https://img.shields.io/badge/REST-9376AE) ![SQL](https://img.shields.io/badge/SQL-323338)
 ![RxJava](https://img.shields.io/badge/RxJava-294261) ![Retrofit](https://img.shields.io/badge/Retrofit-294261) ![Coroutines](https://img.shields.io/badge/Coroutines-294261) ![Glide](https://img.shields.io/badge/Glide-294261) ![GSON](https://img.shields.io/badge/GSON-294261) ![OkHTTP](https://img.shields.io/badge/OkHTTP-294261) ![TensorFlow](https://img.shields.io/badge/TensorFlow-294261)
 
+### Also
+![Python](https://img.shields.io/badge/Python-2D4FC5) ![C++](https://img.shields.io/badge/C++-EEF234) ![C#](https://img.shields.io/badge/C#-C5492D) ![C](https://img.shields.io/badge/C-D01616)
+
 Follow Me
