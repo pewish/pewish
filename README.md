@@ -8,4 +8,6 @@
 ![RxJava](https://img.shields.io/badge/RxJava-294261) ![Retrofit](https://img.shields.io/badge/Retrofit-294261) ![Coroutines](https://img.shields.io/badge/Coroutines-294261) ![Glide](https://img.shields.io/badge/Glide-294261) ![GSON](https://img.shields.io/badge/GSON-294261) ![OkHTTP](https://img.shields.io/badge/OkHTTP-294261) ![TensorFlow](https://img.shields.io/badge/TensorFlow-294261)
 
 ### Also
-![Python](https://img.shields.io/badge/Python-168DD0) ![C](https://img.shields.io/badge/C-106594) ![C++](https://img.shields.io/badge/C++-104594) 
+![Python](https://img.shields.io/badge/Python-168DD0) ![C](https://img.shields.io/badge/C-106594) ![C++](https://img.shields.io/badge/C++-104594)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
