@@ -1,6 +1,6 @@
 ![Header](https://github.com/pewish/pewish/blob/main/assets/Frame%2062.png)
 
-## I am a software engineer and a bachelor of Information Systems and Technology.
+## I am a software engineer and a bachelor of Information Systems and Technology (2024). PhD - Software Engineering (2026)
 
 ### Languages and Tools
 ![Kotlin](https://img.shields.io/badge/Kotlin-8A2BE2) ![Java](https://img.shields.io/badge/Java-B3751E) ![XML](https://img.shields.io/badge/XML-FF6600) ![Compose](https://img.shields.io/badge/Compose-00D001)
