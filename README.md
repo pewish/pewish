@@ -10,4 +10,4 @@
 ### Also
 ![Python](https://img.shields.io/badge/Python-168DD0) ![C](https://img.shields.io/badge/C-106594) ![C++](https://img.shields.io/badge/C++-104594)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pewish)](https://github.com/anuraghazra/github-readme-stats)
